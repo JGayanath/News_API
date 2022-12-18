@@ -1,0 +1,291 @@
+
+
+https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=ba1ec4437ce441f394db06676ed06f79
+%%%
+# Duration: 690 ms
+# GET
+# https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=ba1ec4437ce441f394db06676ed06f79
+
+
+# status 200
+
+@date: Sat, 17 Dec 2022 10:43:10 GMT
+@content-type: application/json; charset=utf-8
+@cache-control: no-cache
+@pragma: no-cache
+@expires: -1
+@x-cached-result: true
+@x-cache-remaining: 95
+@x-cache-expires: Sat, 17 Dec 2022 10:43:38 GMT
+@cf-cache-status: DYNAMIC
+@report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hRXsQE9UNeNTjYLMMxvollvS6W6WZstKUVEKQFtHAxYqlZyPFWd1SXaKDMDZU3%2FVkxOuJYbG6Y%2BX%2F8xNFC7dmeBjoEvowTA6RxFdNB6x%2FPF8Q64Oip6WUoeWix5h"}],"group":"cf-nel","max_age":604800}
+@nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+@server: cloudflare
+@cf-ray: 77af0e680f4b6bd3-SIN
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sai Ishwarbharath",
+      "title": "I was wrong in not allowing next gen at Infosys, says founder NR Narayana Murthy - The Economic Times",
+      "description": "Indias second largest IT exporter Infosys was founded in 1981 by seven engineers in Pune–Murthy, Nilekani, Gopalakrishnan, Dinesh, Shibulal and NS Raghavan and Ashok Arora--with an initial capital of $250.",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/i-was-completely-wrong-in-not-allowing-next-gen-at-infosys-nr-narayana-murthy/articleshow/96232693.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96232704,width-1070,height-580,imgsize-734035,overlay-ettech/photo.jpg",
+      "publishedAt": "2022-12-17T08:35:31Z",
+      "content": "Infosys founder NR Narayana Murthy said he was completely wrong in not allowing the next generation of the promoter-founder families to take up active roles in the Bengaluru-based tech giant. Doing s… [+3767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Autocarindia.com"
+      },
+      "author": "Pradyumna  Kalagi",
+      "title": "Mahindra Thar 5-door: new spy shots show interior and seating layout - Autocar India",
+      "description": "The five-door Thar will benefit from more legroom in the second-row and additional cargo space.",
+      "url": "https://www.autocarindia.com/car-news/mahindra-thar-5-door-new-spy-shots-show-interior-and-seating-layout-426700",
+      "urlToImage": "https://cdni.autocarindia.com/ExtraImages/20221217013132_Thar_main_image_2.jpg",
+      "publishedAt": "2022-12-17T08:16:00Z",
+      "content": "The five-door Thar will benefit from more legroom in the second-row and additional cargo space.The much-awaited 5-door Mahindra Thar is being tested around the country ahead of its market launch. Whi… [+3115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Elon Musk's Twitter Poll Over Journalists' Suspension: Here's The Result - NDTV",
+      "description": "Elon Musk today chose reply with sarcasm to criticism for suspending half a dozen journalists from Twitter.",
+      "url": "https://www.ndtv.com/world-news/elon-musks-freedom-of-speech-tweet-after-twitter-suspends-journalists-3614525",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/t1uc9has_elon-musk_625x300_07_December_22.jpg",
+      "publishedAt": "2022-12-17T05:24:57Z",
+      "content": "Elon Musk said it's \"inspiring to see the newfound love of freedom of speech by the press\". (File)\r\nElon Musk today chose reply with sarcasm to criticism for suspending half a dozen journalists from … [+2528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Rakesh Patil",
+      "title": "Market dips further but 40 small-caps beat the trend with 10-54% surge - Moneycontrol",
+      "description": "During this week, BSE Small-cap index ended on flat note, while Large-cap and Mid-cap index lost over a percent each. The domestic markets, according to experts, may be dominated by global news flows and steps taken by various governments to tackle their econ…",
+      "url": "https://www.moneycontrol.com/news/business/markets/market-dips-further-but-40-small-caps-beat-the-trend-with-10-54-surge-9720201.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/12/stocks_market-stock_stock-3-770x433.jpg",
+      "publishedAt": "2022-12-17T05:04:13Z",
+      "content": "The losing streak kept roiling the benchmark indices with both the Sensex and the Nifty shedding over 1 percent each in a volatile week ended December 16 amid rate hikes by some major economies, cont… [+5402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "ABP News Bureau",
+      "title": "CNG Prices Hiked From Today, CNG To Now Cost Rs 79.56 Per Kg In Delhi — Check Rates In Other Cities - ABP Live",
+      "description": "The CNG prices were previously hiked in October ahead of Diwali.",
+      "url": "https://news.abplive.com/business/cng-prices-hiked-from-today-cng-to-now-cost-rs-79-56-per-kg-in-delhi-check-rates-in-other-cities-1570103",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/12/17/bdf54d0a82bc60868f4bfdb389fbf82d167124348238025_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2022-12-17T02:18:19Z",
+      "content": "New Delhi: Indraprastha Gas Ltd (IGL) on Saturday increased prices of compressed natural gas (CNG) with effect from today. CNG now costs Rs 79.56 per kg in Delhi, Rs 82.12 per kg in Noida, Greater No… [+1504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Asit Manohar",
+      "title": "IPOs next week: 2 public issues worth ₹1,975 crore set to hit primary markets | Mint - Mint",
+      "description": "KFin Technologies IPO will open on Monday and it will remain open till Wednesday next week",
+      "url": "https://www.livemint.com/market/ipo/ipos-next-week-2-public-issues-worth-rs-1-975-crore-set-to-hit-primary-markets-11671243042006.html",
+      "urlToImage": "https://images.livemint.com/img/2022/12/17/600x338/Upcoming_IPOs_1671243260606_1671243260863_1671243260863.jpeg",
+      "publishedAt": "2022-12-17T02:18:05Z",
+      "content": "IPO next week: Ahead of ushering in new year 2023, two initial public offerings (IPOs) proposed for listing on BSE and NSE are going to hit primary markets next week. Two IPOs that are going to open … [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CarToq.com"
+      },
+      "author": "Utkarsh Deshmukh",
+      "title": "Mahindra Scorpio-N: What it’ll look like with a wide-body kit [Video] - CarToq.com",
+      "description": "The Mahindra Scorpio-N is currently one of if not the most talked about SUVs on sale in India. And because of its huge popularity, many people have now started imagining various iterations of this SUV using automotive design rendering platforms. Many artists …",
+      "url": "https://www.cartoq.com/mahindra-scorpio-n-what-itll-look-like-with-a-wide-body-kit-video/",
+      "urlToImage": "https://www.cartoq.com/wp-content/uploads/2022/12/mahindra-scorpio-n-low-rider-featured.jpg",
+      "publishedAt": "2022-12-17T02:16:35Z",
+      "content": "The Mahindra Scorpio-N is currently one of if not the most talked about SUVs on sale in India. And because of its huge popularity, many people have now started imagining various iterations of this SU… [+3397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GaadiWaadi.com"
+      },
+      "author": "Surendhar M",
+      "title": "Upcoming Maruti C-MPV To Be The Brand's First ADAS Equipped Car - GaadiWaadi.com",
+      "description": "Maruti Suzuki C-MPV is expected to go on sale in the second half of 2023 and it will have plenty in common with the Toyota Innova Hycross",
+      "url": "https://gaadiwaadi.com/upcoming-maruti-c-mpv-to-be-the-brands-first-adas-equipped-car/",
+      "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2022/12/toyota-innova-hycross-16.jpg",
+      "publishedAt": "2022-12-17T01:30:05Z",
+      "content": "Maruti Suzuki appears to be planning to host the global debut of a couple of models at the 2023 Auto Expo in January. The YTB crossover and the five-door Jimny have already been caught testing multip… [+1862 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Urvi Malvania",
+      "title": "Telcos may double investments to strengthen 5G network security - The Economic Times",
+      "description": "With 5G, it is the first time they (the telcos) have a chance to put security at the core of the telecom operations. This will of course increase the need for investment to 2-2.5X from what they are doing now,  said Ruchin Kumar, vice-president, South Asia at…",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telcos-may-double-investments-to-strengthen-5g-network-security/articleshow/96287617.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96287623,width-1070,height-580,imgsize-172304,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-12-16T19:41:00Z",
+      "content": "Indian mobile phone operators are expected to at least double their investments on network security with the 5G rollout expected to spark a surge in network vulnerabilities, which assume critical imp… [+3273 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Joel Rebello",
+      "title": "Bajaj Hindusthan sugar proposes second restructuring plan - Economic Times",
+      "description": "The company owes a group of 10 lenders led by State Bank of India (SBI) a total of ₹4,900 crore. Delays in payments had meant the account was tagged as NPA in the fourth quarter of last fiscal. However, the company cleared its outstanding dues in the last thr…",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/bajaj-hindusthan-sugar-proposes-second-restructuring-plan/articleshow/96287403.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96287431,width-1070,height-580,imgsize-126442,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-12-16T19:08:00Z",
+      "content": "Kushagra Bajaj-led Bajaj Hindusthan Sugar Ltd has proposed a second restructuring plan to lenders after the company cleared a majority of its outstanding dues last month even as it struggles to erase… [+3305 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Air India Expected To Order Almost 200 Boeing 737 MAXs - Simple Flying",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiRmh0dHBzOi8vc2ltcGxlZmx5aW5nLmNvbS9haXItaW5kaWEtMTkwLWJvZWlubmctNzM3LW1heC1vcmRlci1leHBlY3RlZC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-16T19:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitco NEWS"
+      },
+      "author": "http://www.facebook.com/kitconews",
+      "title": "Hawkish central banks will test gold bulls' resolve into year-end - Kitco NEWS",
+      "description": "Bulls or Bears? Wall Street vs. Main Street puts together leading analysts and regular metals investors to find out where they think gold is headed next week. Picked up and quoted by other leading news organizations, this feature has become a cornerstone for …",
+      "url": "https://www.kitco.com/news/2022-12-16/Hawkish-central-banks-will-test-gold-bulls-resolve-into-year-end.html",
+      "urlToImage": "https://www.kitco.com/news/2022-12-16/images/shutterstock_699732934.jpg",
+      "publishedAt": "2022-12-16T18:00:00Z",
+      "content": "Welcome to Kitco News' 2023 outlook series. Uncertainty continues to dominate financial markets as central bank monetary policies push the global economy into a recession to cool down inflation. Stay… [+3769 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Goldman Sachs to cut thousands of employees - Economic Times",
+      "description": "The Wall Street bank had 49,100 employees at the end of the third quarter this year, after adding significant numbers of staff during the pandemic. Headcount will remain above pre-pandemic levels, which stood at 38,300 at the end of 2019, the source said.",
+      "url": "https://economictimes.indiatimes.com/news/international/business/goldman-sachs-to-cut-thousands-of-employees/articleshow/96286080.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96286092,width-1070,height-580,imgsize-1723618,overlay-economictimes/photo.jpg",
+      "publishedAt": "2022-12-16T16:49:00Z",
+      "content": "Goldman Sachs Group Inc is planning to cut a couple of thousand employees to navigate a difficult economic environment, a source familiar with the move said.\r\nThe Wall Street bank had 49,100 employee… [+461 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Reuters",
+      "title": "Accenture second-quarter forecast disappoints as IT spending weakens - Moneycontrol",
+      "description": "Accenture's revenue guidance was in the range of $15.20 billion to $15.75 billion for Q2, which was slightly below analyst estimates.",
+      "url": "https://www.moneycontrol.com/news/business/earnings/accenture-second-quarter-forecast-disappoints-as-it-spending-weakens-9718781.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/04/accenture-770x433.jpg",
+      "publishedAt": "2022-12-16T13:16:04Z",
+      "content": "Accenture Plc beat quarterly estimates for revenue and earnings on Friday but forecast second-quarter sales slightly lower than expectations, signalling pressure as companies curtail IT spending due … [+1037 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Wire"
+      },
+      "author": null,
+      "title": "WNS Acquires Two Firms to Enhance Digital Analytics and Procurement Capabilities - Business Wire",
+      "description": "“We are excited to welcome the talented teams of The Smart Cube and OptiBuy to the WNS family,” said Keshav R. Murugesh, WNS’ Chief Executive Officer.",
+      "url": "https://www.businesswire.com/news/home/20221215006157/en/WNS-Acquires-Two-Firms-to-Enhance-Digital-Analytics-and-Procurement-Capabilities",
+      "urlToImage": "https://mms.businesswire.com/media/20221215006157/en/1667236/23/WNS.jpg",
+      "publishedAt": "2022-12-16T13:00:00Z",
+      "content": "NEW YORK &amp; MUMBAI, India--(BUSINESS WIRE)--WNS (Holdings) Limited (WNS) (NYSE: WNS), a leading provider of global Business Process Management (BPM) solutions, today announced it has acquired The … [+11052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "A Bengaluru User Swiggy'd Groceries Worth Rs 16.6 Lakh This Year - NDTV",
+      "description": "Bangalore ranked number one in the meat delivery category ordering more than Mumbai, Delhi, Pune, Coimbatore, and Kolkata combined.",
+      "url": "https://www.ndtv.com/india-news/swiggy-food-delivery-burger-order-worth-rs-71-000-what-india-swiggyd-in-2022-3612923",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/ckibfsp8_swiggy_625x300_16_September_22.jpg",
+      "publishedAt": "2022-12-16T12:55:54Z",
+      "content": "New Delhi: Food delivery platform Swiggy has released the seventh edition of its annual trends report HOW INDIA SWIGGY'D 2022 showcasing the foods that were ordered the most by Indians this year thro… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "Aneesh Phadnis",
+      "title": "Air India pilots warn of non-co-operation - Rediff.com",
+      "description": "Pilots working with Air India have warned of non-co-operation if restoration of pre-Covid overtime allowance is delayed, and if other practices they say are 'discriminatory' continues.\n\n'We cannot assure that our members will undertake flying duties exceeding…",
+      "url": "https://www.rediff.com/business/report/air-india-pilots-are-up-in-arms-against-the-airline/20221216.htm",
+      "urlToImage": "https://im.rediff.com/money/2022/dec/16air-india2.jpg",
+      "publishedAt": "2022-12-16T12:42:04Z",
+      "content": "Pilots working with Air India have warned of non-co-operation if restoration of pre-Covid overtime allowance is delayed, and if other practices they say are 'discriminatory’ continues.\r\n“We cannot as… [+1278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Payment Platform Razorpay Told To Stop Acquiring New Customers - NDTV",
+      "description": "The Reserve Bank of India has asked Razorpay and Cashfree to temporarily stop the onboarding of new customers for their payment processing business, according to a source.",
+      "url": "https://www.ndtv.com/india-news/payment-platform-razorpay-told-to-stop-acquiring-new-customers-3612951",
+      "urlToImage": "https://c.ndtvimg.com/2021-03/rqgmoako_online-shopping_625x300_13_March_21.jpg",
+      "publishedAt": "2022-12-16T12:11:13Z",
+      "content": "New Delhi: The Reserve Bank of India has asked Razorpay and Cashfree to temporarily stop the onboarding of new customers for their payment processing business, according to a source.\r\nOn the banking … [+1699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "Meesho scraps its work from anywhere policy, adopts flexi-office model - Moneycontrol",
+      "description": "This comes at a time when many offices have opened up, leading to rentals in Bengaluru skyrocketing among other issues.",
+      "url": "https://www.moneycontrol.com/news/business/startup/meesho-scraps-its-work-from-anywhere-policy-adopts-flexi-office-model-9717961.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/04/Vidit-Aatrey-Founder-CEO-and-Sanjeev-Barnwal-Founder-CTO-Meesho-770x433.jpg",
+      "publishedAt": "2022-12-16T11:21:07Z",
+      "content": "Meesho will be adopting a flexi-office model starting June 1 of 2023 and move away from its work from anywhere policy after announcing it over a year back.\r\nThe social commerce startup said the emplo… [+1509 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nikhil Agarwal",
+      "title": "Tech View: Nifty charts blinking red. What traders should do next week - The Economic Times",
+      "description": "Chart readers said lower top formation on the daily scale and double top reversal formation on intraday charts, indicating further downside from the current levels.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tech-view-nifty-charts-blinking-red-what-traders-should-do-next-week/articleshow/96279676.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96279695,width-1070,height-580,imgsize-113450,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2022-12-16T11:17:00Z",
+      "content": "Indicating a sell-on-rise mood in the market, the headline equity index Nifty on Friday formed a bearish candle with a long upper shadow on the daily chart. Now till it holds below 18350, weakness co… [+2150 chars]"
+    }
+  ]
+}
